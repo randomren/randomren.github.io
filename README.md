@@ -1,2 +1,4 @@
 # randomren.github.io
-Random Ren: Whatever I want on the Internet
+Random Ren: Whatever I Want On The Internet
+
+
