@@ -1,0 +1,23 @@
+---
+layout: page
+title: Galleries
+permalink: /galleries/
+---
+
+<div class="indexWrap">
+    {% for page in site.pages %}
+	{% if page.permalink contains "/galleries/" %}
+		{% unless page.title contains "Galleries" %}
+		    <div class="indexBox">
+			<div class="indexInnerBox">
+			    <a href="{{ page.permalink }}">
+				<img src="{{ page.best_image }}" alt="{{ page.gallery_name }}" class="indexThumb">
+			    </a>
+			    <a href="{{ page.permalink }}"><h3> {{ page.gallery_name }} </h3></a>
+			</div>
+		    </div>
+		{% endunless %}
+	{% endif %}
+    {% endfor %}
+</div>			
+

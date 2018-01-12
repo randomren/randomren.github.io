@@ -1,0 +1,18 @@
+
+<div class="galleryWrap" id="lightgallery">
+{% assign images_thumb = page.images_url | append: "thumb/" %}
+    {% for image in site.static_files %}
+	{% if image.path contains page.images_url %}
+	    {% unless image.path contains '-th.' %}
+		<div class="pictureBox">
+		    <div class="innerBox">
+			<a href="{{ image.path }}" id="galleryImage">
+			    <img src="{{ images_thumb | append: image.basename | append: '-th' | append: image.extname }}" />
+			</a>
+		    </div>
+		</div>
+	    {% endunless %}
+	{% endif %}
+    {% endfor %}
+</div>
+
