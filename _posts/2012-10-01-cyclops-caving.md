@@ -24,8 +24,8 @@ Zeb and I arrived the night before to find the ground fully saturated and the ra
 
 The next morning, we met up with Aaron, got gear sorted, and after getting Zeb’s truck un-stuck (thanks Wes), we finally got into the cave about lunch time.  We made good time getting into the cave and were into the main passage in just about an hour.  After taking some time to rest and have a snack, we got about the business of taking some pictures.  For the first shot, we photographed the fountain – a fast drip/waterfall in the middle of a 40′ tall dome that is creating some nice stalagmites.  I used three powerful strobes for this shot – two to the right of the camera, and one directly under the fountain in a large waterproof bag.
 
-<a href="{{ site.url }}/images/caving/2012-03-03_Cyclops0021.jpg" id="galleryImage">
-  <img src="{{ site.url }}/images/caving/thumb/2012-03-03_Cyclops0021-th.jpg" class="galleryThumb" />
+<a href="{{ site.baseurl }}/images/caving/2012-03-03_Cyclops0021.jpg" id="galleryImage">
+  <img src="{{ site.baseurl }}/images/caving/thumb/2012-03-03_Cyclops0021-th.jpg" class="galleryThumb" />
 </a>
 
 Once I was satisfied with the first shot, we headed down into a side passage to get some shots of a small waterfall, which, after so much rain over night, was flowing pretty well.  This shot included one strobe to the lower right of the camera, and one strobe on a human light-stand (Zeb) to the upper left.
