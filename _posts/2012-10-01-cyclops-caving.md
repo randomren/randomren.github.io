@@ -30,53 +30,53 @@ The next morning, we met up with Aaron, got gear sorted, and after getting Zeb�
 
 Once I was satisfied with the first shot, we headed down into a side passage to get some shots of a small waterfall, which, after so much rain over night, was flowing pretty well.  This shot included one strobe to the lower right of the camera, and one strobe on a human light-stand (Zeb) to the upper left.
 
-<a href="{{ site.url }}/images/caving/2012-03-03_Cyclops0022.jpg" id="galleryImage">
-  <img src="{{ site.url }}/images/caving/thumb/2012-03-03_Cyclops0022-th.jpg" class="galleryThumb" />
+<a href="{{ site.baseurl }}/images/caving/2012-03-03_Cyclops0022.jpg" id="galleryImage">
+  <img src="{{ site.baseurl }}/images/caving/thumb/2012-03-03_Cyclops0022-th.jpg" class="galleryThumb" />
 </a>
 
 We then turned around and got another shot in the low passage down stream of the waterfall.  This was shot with one strobe further down the passage, pointing back upstream, and another strobe above and to the left of the camera.
 
-<a href="{{ site.url }}/images/caving/2012-03-03_Cyclops0025.jpg" id="galleryImage">
-  <img src="{{ site.url }}/images/caving/thumb/2012-03-03_Cyclops0025-th.jpg" class="galleryThumb" />
+<a href="{{ site.baseurl }}/images/caving/2012-03-03_Cyclops0025.jpg" id="galleryImage">
+  <img src="{{ site.baseurl }}/images/caving/thumb/2012-03-03_Cyclops0025-th.jpg" class="galleryThumb" />
 </a>
 
 After that, we packed up the photo gear and headed for the “Rapture River.”  We climbed up to “Prometheus Junction,” took a left, headed down through some enormous bore-hole and took another left into a crawling passage.  After about 100m of crawling and climbing through some tight passages and canyons, we started to hear the roar of the “Rapture River”  We came out to the edge, clipped into the safety line and rigged in for our 30-40′ rappel into the canyon.  Once we reached the bottom, we found a stream passage that was well above normal flow… like 20x what it had been last time I was there.  After clipping into the safety line for a quick peek over the lip of the waterfall, we determined that rappelling off the next drop would be a great way to get hypothermia and die, so we decided to head upstream to capture what we could.  We got to the upstream sump and got a picture there.  For this photo, I used two strobes to the right of the camera, one strobe underneath the camera, and some light painting with my homemade 2000 Lumen headlamp to fill in the dark spots.
 
-<a href="{{ site.url }}/images/caving/2012-03-03_Cyclops0026.jpg" id="galleryImage">
-  <img src="{{ site.url }}/images/caving/thumb/2012-03-03_Cyclops0026-th.jpg" class="galleryThumb" />
+<a href="{{ site.baseurl }}/images/caving/2012-03-03_Cyclops0026.jpg" id="galleryImage">
+  <img src="{{ site.baseurl }}/images/caving/thumb/2012-03-03_Cyclops0026-th.jpg" class="galleryThumb" />
 </a>
 
 We then turned around and shot behind us looking down the canyon.  I took this shot using one strobe on top of the rock next to Zeb, one down the passage pointing back upstream, one under the camera, one on a human light-stand (Aaron) to the left of the camera, and my headlamp to fill in a couple shadows.
 
-<a href="{{ site.url }}/images/caving/2012-03-03_Cyclops0030.jpg" id="galleryImage">
-  <img src="{{ site.url }}/images/caving/thumb/2012-03-03_Cyclops0030-th.jpg" class="galleryThumb" />
+<a href="{{ site.baseurl }}/images/caving/2012-03-03_Cyclops0030.jpg" id="galleryImage">
+  <img src="{{ site.baseurl }}/images/caving/thumb/2012-03-03_Cyclops0030-th.jpg" class="galleryThumb" />
 </a>
 
 We then headed downstream to capture a nice drip formation.  This was shot with a strobe on a human light-stand (Zeb) down the passage pointing back upstream, two strobe to the left of the camera pointing up and down, and some light painting for the shadows.
 
-<a href="{{ site.url }}/images/caving/2012-03-03_Cyclops0031.jpg" id="galleryImage">
-  <img src="{{ site.url }}/images/caving/thumb/2012-03-03_Cyclops0031-th.jpg" class="galleryThumb" />
+<a href="{{ site.baseurl }}/images/caving/2012-03-03_Cyclops0031.jpg" id="galleryImage">
+  <img src="{{ site.baseurl }}/images/caving/thumb/2012-03-03_Cyclops0031-th.jpg" class="galleryThumb" />
 </a>
 
 We then got a couple shots from the lip of the waterfall, pointing back upstream with Aaron dangling on rope.  For this shot I used two strobes up the passage pointing back downstream, one on a ledge to the right of the camera, one in my left hand above and to the left of the camera, and using my headlamp for some fill.  All this while dangling off the edge of the drop with a camera in one hand and a strobe in the other.  It was a tricky shot, but a fast shutter speed and having plenty of strobes made it work.
 
-<a href="{{ site.url }}/images/caving/2012-03-03_Cyclops0035.jpg" id="galleryImage">
-  <img src="{{ site.url }}/images/caving/thumb/2012-03-03_Cyclops0035-th.jpg" class="galleryThumb" />
+<a href="{{ site.baseurl }}/images/caving/2012-03-03_Cyclops0035.jpg" id="galleryImage">
+  <img src="{{ site.baseurl }}/images/caving/thumb/2012-03-03_Cyclops0035-th.jpg" class="galleryThumb" />
 </a>
 
 The next two shots are pointing  downstream at the drop.  Aaron is on rope just out of frame, pointing a strobe (in a waterproof bag) back up at the lip.  Zeb is holding another strobe, pointed back down the drop, and there are strobes to either side of the camera.  Again, the camera is handheld with a fast shutter speed.
 
-<a href="{{ site.url }}/images/caving/2012-03-03_Cyclops0036.jpg" id="galleryImage">
-  <img src="{{ site.url }}/images/caving/thumb/2012-03-03_Cyclops0036-th.jpg" class="galleryThumb" />
+<a href="{{ site.baseurl }}/images/caving/2012-03-03_Cyclops0036.jpg" id="galleryImage">
+  <img src="{{ site.baseurl }}/images/caving/thumb/2012-03-03_Cyclops0036-th.jpg" class="galleryThumb" />
 </a>
-<a href="{{ site.url }}/images/caving/2012-03-03_Cyclops0037.jpg" id="galleryImage">
-  <img src="{{ site.url }}/images/caving/thumb/2012-03-03_Cyclops0037-th.jpg" class="galleryThumb" />
+<a href="{{ site.baseurl }}/images/caving/2012-03-03_Cyclops0037.jpg" id="galleryImage">
+  <img src="{{ site.baseurl }}/images/caving/thumb/2012-03-03_Cyclops0037-th.jpg" class="galleryThumb" />
 </a>
 
 Having captured about as much of the “Rapture River” as we could considering the water level, we packed up the camera gear and started climbing out of the canyon.  We made our way back to the borehole and decided to use all the strobes to light up the world for one last shot before we headed to the surface.  This shot used all six strobes that we brought,  as well as all of our headlamps.  I used a radio shutter release so we could all get in the picture.  I’ll let you figure out where all the strobes are in the picture.
 
-<a href="{{ site.url }}/images/caving/2012-03-03_Cyclops0039.jpg" id="galleryImage">
-  <img src="{{ site.url }}/images/caving/thumb/2012-03-03_Cyclops0039-th.jpg" class="galleryThumb" />
+<a href="{{ site.baseurl }}/images/caving/2012-03-03_Cyclops0039.jpg" id="galleryImage">
+  <img src="{{ site.baseurl }}/images/caving/thumb/2012-03-03_Cyclops0039-th.jpg" class="galleryThumb" />
 </a>
 
 Once we finally got tired of climbing all over the passage to adjust the strobes, we called it good and packed up the photo gear.  We started our muddy journey back to the surface, and within a couple hours, we were all safely back at the cars and changing into clean clothes.  
