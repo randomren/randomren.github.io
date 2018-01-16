@@ -19,7 +19,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
-url: "https://randomren.com" # the base hostname & protocol for your site
+url: "http://randomren.com" # the base hostname & protocol for your site
 cover: "/images/header_image.jpg"
 # logo: "/images/logo.png"
 
@@ -65,19 +65,19 @@ social:
     username: RandomRen
     url: https://twitter.com/RandomRen
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
     username: 
     url:
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
-    username: 
-    url: 
+    username: randomren
+    url: https://github.com/randomren
     desc: Fork me on GitHub
     share: true
 
