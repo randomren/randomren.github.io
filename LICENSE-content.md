@@ -1,7 +1,7 @@
 ---
 layout: page
 title: All Content Licensed Under Creative Commons BY-NC-SA-4.0
-permalink: /license-content
+permalink: /license-content/
 main_nav: false
 ---
 
