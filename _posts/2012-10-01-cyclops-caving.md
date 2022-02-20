@@ -83,8 +83,7 @@ Once we finally got tired of climbing all over the passage to adjust the strobes
 
 Thanks to Zeb and Aaron for all their help.  You guys rock!
 
-P.S. Snipe your used gear:  
-<a href="https://www.gixen.com/index.php" name="9ba3b11208f85a9d7572975010fac70e" target="_blank" >
-<img src="https://www.gixen.com/images/gixenlink.gif" border="0" alt="Auction Sniper" title="Auction Sniper">
-</a>
+---
+
+P.S. Click here to snipe your used gear on flea-bay: <a href="https://www.gixen.com/index.php" name="9ba3b11208f85a9d7572975010fac70e" target="_blank" >Auction Sniper</a>
 
